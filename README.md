@@ -1,9 +1,8 @@
-# Terraforming-Mars-Reimagined
+# $${\color{red} Terraforming-Mars-Reimagined }$$
 A simulation of terraforming Mars, blending procedural generation, simple AI dynamics, and environmental management systems.
 
-```diff
-+ -------------------------------French Version. Find English version futher below-----------------------------
-```
+## $${\color{green}French \space Version.  \space Find  \space English  \space version  \space futher  \space below}$$
+
 ### Important : Cet exécutable ne peut etre lancé qu’à partir d’une machine avec OS Windows. Si vous rencontrez l’erreur « There is no app installed for DOS/Windows Executable files », utilisez un émulateur Windows.
 
 ### Description du Projet
@@ -51,17 +50,14 @@ A noter que sauter le choix de la taille de la grille lancera la simulation avec
 - État de la carte : Survolez différentes régions pour observer les zones en cours de terraformation.
 - Événements dynamiques : Observez l'apparition des tempêtes de sable et des incendies directement sur la carte.
 - Statistiques en temps réel : Surveillez les indicateurs d'oxygène, de température et de population dans l'interface utilisateur.
-- 
+  
 ### Interagir avec l'environnement
 - Les actions des humains et des martiens sont automatisées via des scripts d'intelligence artificielle. Cependant, vous pouvez observer leurs comportements en temps réel :
   - Humains : Repérez ceux qui plantent des arbres ou creusent des océans.
   - Martiens : Suivez leurs actions destructrices et notez les impacts sur l'environnement.
   - Drones : Regardez-les éteindre les incendies.
 
-
-```diff
-+ -------------------------------English Version-----------------------------
-```
+## $${\color{green}English  \space Version}$$
 
 ### Important: This executable file can only be run on a machine with a Windows OS. If you encounter the error “There is no app installed for DOS/Windows Executable files”, use a Windows emulator.
 
@@ -121,4 +117,3 @@ Interacting with the Environment
   - Martians: Follow their destructive actions and note the environmental impacts.
   - Drones: Watch them extinguish fires.
  
-  - 
