@@ -25,8 +25,8 @@ Le fichier pdf « rapport_TerraformingMars.pdf » contient plus de détails et
 ### Comment Utiliser l'Application
 #### Lancer l’application
 Attention : Un .exe n'est pas le projet Unity complet
-    • Le fichier .exe est un build (version compilée) de votre projet, prêt à être exécuté sur un système Windows.
-    • Il n'inclut pas les fichiers sources, les scripts, les assets ou les configurations nécessaires pour ouvrir le projet dans Unit
+- Le fichier .exe est un build (version compilée) de notre projet, prêt à être exécuté sur un système Windows.
+- Il n'inclut pas les fichiers sources, les scripts, les assets ou les configurations nécessaires pour ouvrir le projet dans Unity.
 
 Étapes :
 1. Téléchargez le fichier `.exe` depuis ce dépôt.
@@ -84,7 +84,7 @@ The PDF file "rapport_TerraformingMars.pdf", in French, contains additional deta
 ### How to Use the Application
 #### Launching the Application
 Important: An .exe file is not a complete Unity project.
-- The .exe file is a build (compiled version) of your project, ready to be executed on a Windows system.
+- The .exe file is a build (compiled version) of our project, ready to be executed on a Windows system.
 - It does not include the source files, scripts, assets, or configurations required to open the project in Unity.
 
 Steps:
