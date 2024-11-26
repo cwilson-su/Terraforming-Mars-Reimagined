@@ -1,12 +1,12 @@
-# $${\color{red} Terraforming-Mars-Reimagined }$$
+# $${\color{red}Terraforming-Mars-Reimagined}$$
 A simulation of terraforming Mars, blending procedural generation, simple AI dynamics, and environmental management systems.
 
-## $${\color{green}French \space Version.  \space Find  \space English  \space version  \space futher  \space below}$$
+## $${\color{green}French \space Version.  \space Find  \space English  \space version  \space further  \space below}$$
 
 ### Important : Cet exécutable ne peut etre lancé qu’à partir d’une machine avec OS Windows. Si vous rencontrez l’erreur « There is no app installed for DOS/Windows Executable files », utilisez un émulateur Windows.
 
 ### Description du Projet
-Inspiré du célèbre jeu de société Terraforming Mars lancé en 2016 par FryxGames (https://fryxgames.se), ce projet est une simulation interactive basée sur une représentation de Mars, combinant génération procédurale, intelligence artificielle, et gestion de paramètres environnementaux. L'application explore des concepts tels que la terraformation, la gestion des ressources, les dynamiques proie-prédateur, et les systèmes environnementaux réactifs. Vous y découvrirez un écosystème où les humains travaillent pour rendre Mars habitable tandis que des martiens tentent de perturber leurs efforts.
+Inspiré du célèbre jeu de société Terraforming Mars lancé en 2016 par FryxGames (https://fryxgames.se/product/terraforming-mars/), ce projet est une simulation interactive basée sur une représentation de Mars, combinant génération procédurale, intelligence artificielle, et gestion de paramètres environnementaux. L'application explore des concepts tels que la terraformation, la gestion des ressources, les dynamiques proie-prédateur, et les systèmes environnementaux réactifs. Vous y découvrirez un écosystème où les humains travaillent pour rendre Mars habitable tandis que des martiens tentent de perturber leurs efforts.
 
 Le fichier pdf « rapport_TerraformingMars.pdf » contient plus de détails et d’analyses sur cette simulation.
 
@@ -62,7 +62,7 @@ A noter que sauter le choix de la taille de la grille lancera la simulation avec
 ### Important: This executable file can only be run on a machine with a Windows OS. If you encounter the error “There is no app installed for DOS/Windows Executable files”, use a Windows emulator.
 
 ### Project Description
-Inspired by the famous board game Terraforming Mars, released in 2016 by FryxGames (https://fryxgames.se), this project is an interactive simulation based on a representation of Mars. It combines procedural generation, artificial intelligence, and environmental parameter management. The application explores concepts such as terraforming, resource management, predator-prey dynamics, and reactive environmental systems.
+Inspired by the famous board game Terraforming Mars, released in 2016 by FryxGames (https://fryxgames.se/product/terraforming-mars/), this project is an interactive simulation based on a representation of Mars. It combines procedural generation, artificial intelligence, and environmental parameter management. The application explores concepts such as terraforming, resource management, predator-prey dynamics, and reactive environmental systems.
 
 You’ll discover an ecosystem where humans work to make Mars habitable while Martians attempt to disrupt their efforts.
 
