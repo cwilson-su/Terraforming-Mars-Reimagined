@@ -57,6 +57,7 @@ A noter que sauter le choix de la taille de la grille lancera la simulation avec
   - Martiens : Suivez leurs actions destructrices et notez les impacts sur l'environnement.
   - Drones : Regardez-les éteindre les incendies.
 
+
 ## $${\color{green}English  \space Version}$$
 
 ### Important: This executable file can only be run on a machine with a Windows OS. If you encounter the error “There is no app installed for DOS/Windows Executable files”, use a Windows emulator.
@@ -116,4 +117,14 @@ Interacting with the Environment
   - Humans: Spot those planting trees or digging oceans.
   - Martians: Follow their destructive actions and note the environmental impacts.
   - Drones: Watch them extinguish fires.
+
+
+$${\color{lightgreen} \space Screenshots}$$
+$${\color{lightgreen}Captures \space d'écran}$$
+
+Pre-terraformation:
+![image](https://github.com/user-attachments/assets/dc78ad06-b127-482b-8883-3c09844089e9)
+Post-terraformation:
+![image](https://github.com/user-attachments/assets/e475ffdd-c147-4fdd-99eb-c1337fa133b1)
+
  
