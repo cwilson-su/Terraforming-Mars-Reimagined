@@ -1,6 +1,5 @@
 # $${\color{red}Terraforming-Mars-Reimagined}$$
 A simulation of terraforming Mars, blending procedural generation, simple AI dynamics, and environmental management systems.
-[Screencast from 2024-04-23 22-48-50.webm](https://github.com/user-attachments/assets/00edf2ca-f6f3-4ed8-a545-816ba4493a46)
 
 ## $${\color{green}French \space Version.  \space Find  \space English  \space version  \space further  \space below}$$
 
