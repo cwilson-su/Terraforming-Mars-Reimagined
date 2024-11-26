@@ -57,6 +57,13 @@ A noter que sauter le choix de la taille de la grille lancera la simulation avec
   - Martiens : Suivez leurs actions destructrices et notez les impacts sur l'environnement.
   - Drones : Regardez-les éteindre les incendies.
 
+```
+Remarque :
+Le code source et les assets de ce projet n'ont pas été mis en ligne pour deux raisons principales :
+
+1. Les limitations de GitHub concernant les fichiers volumineux, ce qui a rendu impossible le stockage du projet Unity complet. Le développement a donc été réalisé exclusivement sur nos machines personnelles.
+2. Des considérations liées à la propriété intellectuelle, car les assets et le code représentent un travail créatif et technique conséquent.
+```
 
 ## $${\color{green}English  \space Version}$$
 
@@ -117,7 +124,14 @@ Interacting with the Environment
   - Humans: Spot those planting trees or digging oceans.
   - Martians: Follow their destructive actions and note the environmental impacts.
   - Drones: Watch them extinguish fires.
+    
+```
+Note:
+The source code and assets for this project have not been uploaded due to two primary reasons:
 
+1. GitHub's limitations on large file uploads, which made it impractical to store the full Unity project. The development was conducted entirely on our pc's.
+2. Intellectual property concerns, as the assets and code represent significant creative and technical effort.
+```
 
 $${\color{lightgreen} \space Screenshots}$$
 $${\color{lightgreen}Captures \space d'écran}$$
